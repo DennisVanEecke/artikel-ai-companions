@@ -1,0 +1,16 @@
+{
+    "workbench.colorTheme": "Default Light+",
+    "cSpell.enabled": true,
+    "cSpell.language": "en,nl",
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:artikel-berg}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    },
+    "cSpell.enabledFileTypes": {
+        "markdown": true
+    }
+}
